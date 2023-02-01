@@ -15,13 +15,13 @@
 
     <groupId>io.github.javiercanillas</groupId>
     <artifactId>spring-cloud-aws-messaging-in-memory</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0</version>
 
     <scm>
         <url>https://github.com/javiercanillas/spring-cloud-aws-messaging-in-memory</url>
         <connection>scm:git:git://github.com/javiercanillas/spring-cloud-aws-messaging-in-memory.git</connection>
         <developerConnection>scm:git:git@github.com:javiercanillas/spring-cloud-aws-messaging-in-memory.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>spring-cloud-aws-messaging-in-memory-0.1.0</tag>
     </scm>
 
     <distributionManagement>
