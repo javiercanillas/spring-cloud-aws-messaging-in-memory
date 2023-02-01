@@ -13,5 +13,4 @@ updates:
     allow:
       - dependency-type: "direct"
     ignore:
-      - dependency-name: ""
-        versions: [ "4.x", "5.x" ]
+      - dependency-name: "ch.qos.logback:logback-classic"
