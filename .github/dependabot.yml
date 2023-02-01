@@ -12,3 +12,6 @@ updates:
       day: "sunday"
     allow:
       - dependency-type: "direct"
+    ignore:
+      - dependency-name: ""
+        versions: [ "4.x", "5.x" ]
