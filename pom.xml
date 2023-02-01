@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <name>AWS Java SDK SQS in-memory</name>
+    <name>Spring cloud AWS messaging In-memory</name>
     <description>
-        Simple implementation of a client with basic functionality of AWS SQS using in-memory Java Queues
+        Simple implementation with basic functionality of AWS SQS using in-memory Java Queues based on public interfaces of Spring Cloud AWS messaging
     </description>
     <url>https://github.com/javiercanillas/spring-cloud-aws-messaging-in-memory</url>
     <licenses>
